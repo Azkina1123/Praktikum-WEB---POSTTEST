@@ -1,4 +1,11 @@
 <?php
+/*
+  NAMA  : AZIIZAH OKI SHOFRINA
+  NIM   : 2109106004
+  Kelas : INFORMATIKA A'21
+
+*/
+
 
 require "functions.php";
 
